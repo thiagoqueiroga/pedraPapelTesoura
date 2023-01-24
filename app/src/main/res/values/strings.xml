@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pedra Papel</string>
+    <string name="titulo">Escolha App</string>
+    <string name="result">Resultado aparecerar aqui</string>
+</resources>
